@@ -1,0 +1,362 @@
+.top{
+min-width: 100%;
+
+min-height: 60px;
+max-height: 150px;
+    background-color:rgb(49, 132, 206);
+    
+}
+#facebook{
+    position: absolute;
+    top: 23px;
+    left: 250px;
+}
+#twitter{
+    position: absolute;
+    top: 23px;
+    left: 290px;
+}
+#youtube{
+    position: absolute;
+    top: 23px;
+    left: 330px;
+}
+#insta{
+    position: absolute;
+    top: 23px;
+    left: 370px;
+}
+.nav{
+    max-width: 100%;
+    min-width: 300px;
+    max-height: 350px;
+    min-height: 75px;
+    background-color:gainsboro;
+}
+.par{
+    min-width: 300px;
+    max-width: 500px ;
+    min-height: 30px;
+    max-height: 70px ;
+    position: absolute;
+    top: 15px;
+    left: 520px;
+    color: white;
+}
+#UK{
+    width: 90px;
+     height: 30px;
+     padding: 5px 10px;
+     position: absolute;
+     top: 23px;
+     right: 400px;
+}
+
+#Donate{
+    width: 110px;
+     height: 30px;
+     padding: 5px 10px;
+     position: absolute;
+     top: 23px;
+     right: 280px;
+}
+#SMIT{
+    width: 110px;
+     height: 30px;
+     padding: 5px 10px;
+     position: absolute;
+     top: 23px;
+     right: 160px;
+     cursor: pointer;
+}
+#saylanilogo{
+    width: 220px;
+    height: 50px;
+    position: absolute;
+    top: 80px;
+    left: 245px;
+}
+.bground{
+    width: 100%;
+    height: 470px;
+    
+}
+#bg{
+    width: 100%;
+    height: 470px;
+    
+}
+.news{ 
+   margin: 0px 80px 0px ;
+    width: 80%;
+    height: 30px;
+
+    text-align: center;
+    background-color: rgb(50, 133, 206);
+}
+.intro{
+    margin: 70px 80px 30px 160px;
+    width: 80%;
+    height: 30px;
+
+    text-align: center;
+}
+.achev{
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+    margin: 240px 400px 0px 0px;
+    align-items: center;
+
+}
+#home{
+    width: 70px;
+    height: 40px;
+    background-color: gainsboro;
+    border: none;
+    position: absolute;
+    top: 80px;
+    left: 550px;
+}
+#home:hover{
+    background-color: rgb(50, 125, 206);
+    border-radius: 15px;
+    color: white;
+   
+}
+#about{
+    width: 70px;
+    height: 40px;
+    background-color: gainsboro;
+    border: none;
+    position: absolute;
+    top: 80px;
+    left: 640px; 
+}
+
+#about:hover{
+    background-color: rgb(50, 125, 206);
+    border-radius: 15px;
+    color: white;
+   
+}
+#saylani{
+    width: 130px;
+    height: 40px;
+    background-color: gainsboro;
+    border: none;
+    position: absolute;
+    top: 80px;
+    left: 730px;
+}
+#saylani:hover{
+    background-color: rgb(50, 125, 206);
+    border-radius: 15px;
+    color: white;
+   
+}
+#future{
+    width: 120px;
+    height: 40px;
+    background-color: gainsboro;
+    border: none;
+    position: absolute;
+    top: 80px;
+    left: 870px;
+}
+#future:hover{
+    background-color: rgb(50, 125, 206);
+    border-radius: 15px;
+    color: white;
+   
+}#Media{
+    width: 50px;
+    height: 40px;
+    background-color: gainsboro;
+    border: none;
+    position: absolute;
+    top: 80px;
+    left: 1000px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+#Media:hover{
+    background-color: rgb(50, 125, 206);
+    border-radius: 15px;
+    color: white;
+   
+}#News1{
+    width: 50px;
+    height: 40px;
+    background-color: gainsboro;
+    border: none;
+    position: absolute;
+    top: 80px;
+    left: 1060px;
+    text-align: center;
+    color: black;
+}
+#News1:hover{
+    background-color: rgb(50, 125, 206);
+    border-radius: 15px;
+    color: white;
+   
+}
+#don{
+    width: 80px;
+    height: 40px;
+    background-color: gainsboro;
+    border: none;
+    position: absolute;
+    top: 80px;
+    right:280px;
+}
+#don:hover{
+    background-color: rgb(50, 125, 206);
+    border-radius: 15px;
+    color: white;}
+    #News1{
+    width: 50px;
+    height: 40px;
+    background-color: gainsboro;
+    border: none;
+    position: absolute;
+    top: 80px;
+    left: 1080px;
+    text-align: center;
+    color: black;
+}
+#News1:hover{
+    background-color: rgb(50, 125, 206);
+    border-radius: 15px;
+    color: white;
+   
+}
+#cantact{
+    width: 90px;
+    height: 40px;
+    background-color: gainsboro;
+    border: none;
+    position: absolute;
+    top: 80px;
+    right: 180px;
+    text-align: center;
+    color: black;
+}
+#cantact:hover{
+    background-color: rgb(50, 125, 206);
+    border-radius: 15px;
+    color: white;
+   
+}
+.doing{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+}
+#sadqa{
+    width: 220px;
+    height: 130px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 1500px;
+    left: 340px;
+}
+#welfre{
+    width: 220px;
+    height: 130px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 1500px;
+    left: 710px;
+}
+#med{
+    width: 220px;
+    height: 130px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 1500px;
+    left: 1050px;
+}
+#dast{
+    width: 220px;
+    height: 130px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 1700px;
+    left: 340px;
+}
+#plant{
+    width: 220px;
+    height: 130px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 1700px;
+    left: 710px;
+}
+#edu{
+    width: 220px;
+    height: 130px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 1700px;
+    left: 1050px;
+}
+.mission{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+}
+#hepatits{width: 400px;
+    height: 50px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 2100px;
+    left: 100px;
+
+}
+#house{width: 400px;
+    height: 50px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 2100px;
+    left: 600px;
+
+}
+#house:hover{
+    cursor: pointer;
+}
+#hepatits:hover{
+    cursor: pointer;
+}
+#it{width: 400px;
+    height: 50px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 2200px;
+    left: 100px;
+
+}
+#it:hover{
+    cursor: pointer;
+    
+}
+#thar:hover{
+    cursor: pointer;
+}
+#thar{width: 400px;
+    height: 50px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 2200px;
+    left: 600px;
+
+}
+.foot{
+    width: 100%;
+    height: 300px;
+    background: rgb(141, 134, 134);
+}
+
+   
